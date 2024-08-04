@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>源之宫</title>
+    <link href="https://dongdongsda.github.io/feed.xml" rel="self" />
+    <link href="https://dongdongsda.github.io" />
+    <updated>2024-08-04T16:05:11+08:00</updated>
+    <author>
+        <name>dongdongsda</name>
+    </author>
+    <id>https://dongdongsda.github.io</id>
+
+    <entry>
+        <title>hello world</title>
+        <author>
+            <name>dongdongsda</name>
+        </author>
+        <link href="https://dongdongsda.github.io/hello-world.html"/>
+        <id>https://dongdongsda.github.io/hello-world.html</id>
+
+        <updated>2024-08-04T16:05:11+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>
